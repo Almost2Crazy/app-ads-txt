@@ -1,0 +1,41 @@
+Privacy Policy for GeoClaim by 2Crazy Studios:
+
+Effective Date: 8/17/2024
+
+This privacy policy describes how 2Crazy Studios (referred to as "we," "us," or "our") collects, uses, and shares information when you use our mobile application GeoClaim (the "App").
+
+We collect the following types of information when you use the App:
+
+- Location Data: We collect your precise location data through your device's GPS to enable the core gameplay features of the App, such as claiming squares on the global grid.
+- Device Information: We may collect information about your device, including device model, operating system, unique device identifiers, and mobile network information.
+- Usage Data: We collect information about how you interact with the App, such as the features you use, the time spent on different screens, and other actions you take within the App.
+
+We use the information we collect for the following purposes:
+
+- To Provide and Improve the App:
+ We use your location data to enable the core gameplay mechanics, such as determining square ownership and calculating distances.
+ We use device and usage data to analyze app performance, identify potential issues, and improve the overall user experience.
+
+- To Communicate with You:
+ We may use your information to send you notifications related to the App, such as updates, announcements, or promotional messages.
+
+- To Comply with Legal Obligations:
+ We may use your information to comply with applicable laws and regulations, respond to legal requests, or enforce our terms of service.
+
+- Sharing Your Information:
+ We may share your information with third parties in the following circumstances:
+ - With Service Providers: We may share your information with third-party service providers who assist us in operating the App, such as hosting providers, analytics providers, and advertising networks. These service providers are contractually obligated to protect your information and use it only for the purposes we specify.
+ - With Your Consent: We may share your information with other third parties with your explicit consent.
+
+Your Choices:
+ You can control the collection and use of your location data through your device's settings.
+ You can also opt out of receiving certain notifications from the App.
+
+Security:
+ We take reasonable measures to protect your information from unauthorized access, use, or disclosure. However, no method of transmission over the internet or electronic storage is completely secure, and we cannot guarantee absolute security.
+
+Children's Privacy:
+ The App is not intended for children under the age of 18. We do not knowingly collect personal information from children. If you believe we have collected information from a child, please contact us immediately.
+
+Changes to This Privacy Policy:
+ We may update this privacy policy from time to time. We will notify you of any material changes by posting the updated policy within the App or on our website. Contact Us If you have any questions or concerns about this privacy policy, please contact us at 2CrazyStudios@gmail.com.
